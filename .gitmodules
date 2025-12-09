@@ -1,3 +1,6 @@
 [submodule "XO-Game"]
 	path = XO-Game
 	url = https://github.com/MohamedRaghebOmer/XO-Game--CSharp-Practice.git
+[submodule "Pizza-Order"]
+	path = Pizza-Order
+	url = https://github.com/MohamedRaghebOmer/Beginner-Pizza-Order-CSharp.git
