@@ -4,3 +4,6 @@
 [submodule "Pizza-Order"]
 	path = Pizza-Order
 	url = https://github.com/MohamedRaghebOmer/Beginner-Pizza-Order-CSharp.git
+[submodule "Password-Strength-Checker"]
+	path = Password-Strength-Checker
+	url = https://github.com/MohamedRaghebOmer/Password-Strength-Checker.git
